@@ -15,3 +15,5 @@
 > yarn run eslint --init
 
 > yarn add --dev eslint-plugin-react@latest @typescript-eslint/eslint-plugin@latest @typescript-eslint/parser@latest eslint@latest
+
+> yarn add eslint-plugin-react-hooks --dev
