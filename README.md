@@ -23,3 +23,7 @@
 > yarn add --dev --exact prettier
 
 > yarn add --dev eslint-config-prettier eslint-plugin-prettier
+
+*Git huscky*
+> yarn add --dev lint-staged husky
+
