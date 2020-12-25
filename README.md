@@ -27,3 +27,6 @@
 *Git huscky*
 > yarn add --dev lint-staged husky
 
+## mongodb
+
+> yarn add mongoose bcrypt jsonwebtoken
