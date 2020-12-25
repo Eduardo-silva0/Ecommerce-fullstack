@@ -17,3 +17,9 @@
 > yarn add --dev eslint-plugin-react@latest @typescript-eslint/eslint-plugin@latest @typescript-eslint/parser@latest eslint@latest
 
 > yarn add eslint-plugin-react-hooks --dev
+
+## prettier
+
+> yarn add --dev --exact prettier
+
+> yarn add --dev eslint-config-prettier eslint-plugin-prettier
